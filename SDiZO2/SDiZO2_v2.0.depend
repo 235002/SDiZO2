@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1526305094 source:c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\main.cpp
+	<iostream>
+	<Edge.h>
+	<ListaSasiedztwa.h>
+	<MacierzIncydencji.h>
+
+1526304955 c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\include\edge.h
+
+1526305001 c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\include\listasasiedztwa.h
+	"Edge.h"
+	<iostream>
+
+1526305058 c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\include\macierzincydencji.h
+	<iostream>
+
+1526304947 source:c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\src\edge.cpp
+	"Edge.h"
+	<iostream>
+
+1526304993 source:c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\src\listasasiedztwa.cpp
+	"ListaSasiedztwa.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<cmath>
+	<iomanip>
+
+1526309184 source:c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\src\macierzincydencji.cpp
+	"MacierzIncydencji.h"
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<sstream>
+	<math.h>
+	<iomanip>
+
+1526309608 source:c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\src\msttreelista.cpp
+	"MSTTreeLista.h"
+
+1526309509 c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\include\msttreelista.h
+	<Edge.h>
+	"ListaSasiedztwa.h"
+
+1526309692 source:c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\src\msttreemacierz.cpp
+	"MSTTreeMacierz.h"
+	<iostream>
+	<iomanip>
+
+1526309467 c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\include\msttreemacierz.h
+	<iostream>
+	"MacierzIncydencji.h"
+	"Edge.h"
+
+1526313773 source:c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\src\najkrotszasciezkalista.cpp
+	"NajkrotszaSciezkaLista.h"
+
+1526313610 c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\include\najkrotszasciezkalista.h
+	"ListaSasiedztwa.h"
+
+1526313784 source:c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\src\najkrotszasciezkamacierz.cpp
+	"NajkrotszaSciezkaMacierz.h"
+
+1526313688 c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\include\najkrotszasciezkamacierz.h
+	"MacierzIncydencji.h"
+	"ListaSasiedztwa.h"
+
+1526314072 source:c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\src\nasbellmanfordmacierz.cpp
+	"NASBellmanFordMacierz.h"
+
+1526314029 c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\include\nasbellmanfordmacierz.h
+	"MacierzIncydencji.h"
+
+1526314097 source:c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\src\nsbellmanfordlista.cpp
+	"NSBellmanFordLista.h"
+
+1526313931 c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\include\nsbellmanfordlista.h
+	"ListaSasiedztwa.h"
+
+1526314344 source:c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\src\nsbellmanfordmacierz.cpp
+	"NSBellmanFordMacierz.h"
+
+1526314327 c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\include\nsbellmanfordmacierz.h
+	"MacierzIncydencji.h"
+
+1526314408 source:c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\src\testy.cpp
+	"Testy.h"
+	<sstream>
+
+1526314355 c:\users\pucek\desktop\iv semestr\struktury danych i z³o¿onoœæ obliczeniowa\sdizo2_v1.0\sdizo2_v2.0\include\testy.h
+	<conio.h>
+	<string>
+	<iostream>
+	<afxres.h>
+	<iomanip>
+	<fstream>
+	"MacierzIncydencji.h"
+	"ListaSasiedztwa.h"
+	"NajkrotszaSciezkaLista.h"
+	"NajkrotszaSciezkaMacierz.h"
+	"NSBellmanFordLista.h"
+	"NSBellmanFordMacierz.h"
+	"MSTTreeMacierz.h"
+	"MSTTreeLista.h"
+

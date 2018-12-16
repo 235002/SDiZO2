@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SDiZO2_v2.0" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SDiZO2_v2.0" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SDiZO2_v2.0" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Edge.h" />
+		<Unit filename="include/ListaSasiedztwa.h" />
+		<Unit filename="include/MSTTreeLista.h" />
+		<Unit filename="include/MSTTreeMacierz.h" />
+		<Unit filename="include/MacierzIncydencji.h" />
+		<Unit filename="include/NSBellmanFordLista.h" />
+		<Unit filename="include/NSBellmanFordMacierz.h" />
+		<Unit filename="include/NajkrotszaSciezkaLista.h" />
+		<Unit filename="include/NajkrotszaSciezkaMacierz.h" />
+		<Unit filename="include/Testy.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Edge.cpp" />
+		<Unit filename="src/ListaSasiedztwa.cpp" />
+		<Unit filename="src/MSTTreeLista.cpp" />
+		<Unit filename="src/MSTTreeMacierz.cpp" />
+		<Unit filename="src/MacierzIncydencji.cpp" />
+		<Unit filename="src/NSBellmanFordLista.cpp" />
+		<Unit filename="src/NSBellmanFordMacierz.cpp" />
+		<Unit filename="src/NajkrotszaSciezkaLista.cpp" />
+		<Unit filename="src/NajkrotszaSciezkaMacierz.cpp" />
+		<Unit filename="src/Testy.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
